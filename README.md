@@ -77,3 +77,17 @@ gym
    ```bash
    git clone https://github.com/Mohima6/neurobot-ml-for-paperwork-rl-training.git
    cd neurobot-ml-for-paperwork-rl-training
+   
+2. Install required Python packages:
+    ```bash
+    pip install -r requirements.txt
+
+
+Future Work: 
+
+Extend RL environment for more complex multi-agent navigation.
+
+Implement transfer learning for improved brain command decoding.
+
+Explore advanced signal denoising techniques and feature extraction.
+
