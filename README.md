@@ -51,6 +51,24 @@ The main objective of this project is to explore **robotic control through machi
 - Trains a **Multi-Layer Perceptron (MLP)** classifier to decode these commands.  
 - Visualizes classification performance via a confusion matrix and plots predicted robot movements.
 
+🤖 Requirements: the main Python packages used in this project:
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+tensorflow
+
+stable-baselines3
+
+statsmodels
+
+gym
+
 ---
 
 ## Installation
