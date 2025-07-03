@@ -1,5 +1,5 @@
 
-# NeuroBot ML for Paperwork RL Training
+# NeuroBot ML for RL Training
 
 This repository contains a suite of machine learning and reinforcement learning projects designed for robotic control and signal processing, focusing on neuro-robotics applications and simulated environments.
 
